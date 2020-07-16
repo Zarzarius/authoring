@@ -13,7 +13,7 @@
 [To images folder](/home/dci/Pictures)
 
 ## Images
-![Bike image](/home/dci/Pictures/Bikes.jpg)
+![Bike image](Bikes.jpg)
 
 ## Emojis
 :neckbeard:
